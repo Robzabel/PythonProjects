@@ -29,4 +29,3 @@ def gen():                                                           # A functio
     print(''.join(wp))
 gen()
 
-
